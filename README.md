@@ -65,14 +65,16 @@ En esta sección se incluirán las evidencias de ejecución de los diferentes ej
 
 ### Cálculo del área del triángulo
 ![Área del triángulo](01-Triangulo.png)
+
 ### Cálculo del área del cuadrado
 ![Área del cuadrado](02-Cuadrado.png)
 
 ### Cálculo del área del círculo
 ![Área del círculo](03-Circulo.png)
 
-### Verificación de mayoría y minoría de edad
+### Verificación de mayoría de edad
 ![Mayor de edad](04-Mayor-de-edad.png)
+
 ![Menor de edad](05-Menor-de-edad.png)
 
 ## 8. Conclusión
