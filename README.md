@@ -64,16 +64,16 @@ El programa muestra en pantalla:
 En esta sección se incluirán las evidencias de ejecución de los diferentes ejercicios:
 
 ### Cálculo del área del triángulo
-Pendiente de agregar captura.
-
+![Área del triángulo](01-Triangulo.png)
 ### Cálculo del área del cuadrado
-Pendiente de agregar captura.
+![Área del cuadrado](02-Cuadrado.png)
 
 ### Cálculo del área del círculo
-Pendiente de agregar captura.
+![Área del círculo](03-Circulo.png)
 
 ### Verificación de mayoría y minoría de edad
-Pendiente de agregar capturas.
+![Mayor de edad](04-Mayor-de-edad.png)
+![Menor de edad](05-Menor-de-edad.png)
 
 ## 8. Conclusión
 
